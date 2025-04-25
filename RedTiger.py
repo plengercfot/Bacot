@@ -15,7 +15,7 @@ try:
    import webbrowser
    import re
    import pyzipper
-   from tkinter import messagebox
+   import messagebox
 except Exception as e:
    ErrorModule(e)
 
